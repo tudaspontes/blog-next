@@ -1,10 +1,8 @@
-# A statically generated blog example using Next.js, Markdown, and TypeScript
+# My wife's blog project
 
-I just added a view counter to the posts.
+It is written in portuguese, because her audience is Brazilian.
 
-This is the existing [blog-starter](https://github.com/vercel/next.js/tree/canary/examples/blog-starter) plus TypeScript.
-
-This example showcases Next.js's [Static Generation](https://nextjs.org/docs/basic-features/pages) feature using Markdown files as the data source.
+I got the the existing [blog-starter](https://github.com/vercel/next.js/tree/canary/examples/blog-starter) plus TypeScript, and added a view counter to the posts.
 
 The blog posts are stored in `/_posts` as Markdown files with front matter support. Adding a new Markdown file in there will create a new blog post.
 
