@@ -30,7 +30,7 @@ const Alert = ({ preview }: Props) => {
             <>
               Acesse o ebook {' '}
               <a
-                href={`#link ebook`}
+                href={`https://sun.eduzz.com/396997`}
                 className="underline hover:text-success duration-200 transition-colors"
               >
                 aqui
