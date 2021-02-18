@@ -71,7 +71,7 @@ Desapareci.
   
   
   
-![image](/assets/blog/dynamic-routing/image2.jpg)
+![image](/assets/blog/endometriose/image2.jpg)
   
 
 ## Despertei...
