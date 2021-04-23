@@ -1,5 +1,7 @@
 # My wife's blog project
 
+eusustentavel.com
+
 It is written in portuguese, because her audience is Brazilian.
 
 I got the the existing [blog-starter](https://github.com/vercel/next.js/tree/canary/examples/blog-starter) plus TypeScript, and added a view counter to the posts.
